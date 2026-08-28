@@ -6,4 +6,4 @@ def subtract(a, b):
     return a - b
 
 
-print("Library Management - Agile Demo")
+print("Library Management System")
